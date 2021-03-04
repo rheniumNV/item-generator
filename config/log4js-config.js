@@ -46,7 +46,7 @@ module.exports = {
     },
     application: {
       appenders: ["applicationLog", "consoleLog"],
-      level: "ERROR",
+      level: "ALL",
     },
     access: {
       appenders: ["accessLog"],

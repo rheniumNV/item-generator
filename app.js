@@ -58,7 +58,3 @@ const server = app.listen(app.get("port"), () => {
 });
 
 appLogger.info(LOG.APP.SERVER, "App start");
-
-//neosBot
-const neosBot = require("./lib/neosBot/neosBot");
-neosBot.login();
