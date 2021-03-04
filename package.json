@@ -18,6 +18,7 @@
     "express-query-boolean": "^2.0.0",
     "lodash": "^4.17.21",
     "log4js": "^6.3.0",
+    "neodatatree": "github:rheniumNV/neos-datatree-api",
     "path": "^0.12.7"
   },
   "devDependencies": {
